@@ -1,2 +1,3 @@
-# flipkart-retail-analysis
-EDA project on Flipkart product data using Python and Matplotlib/Seaborn.
+# Flipkart E-Commerce Product EDA 📊
+
+This project performs Exploratory Data Analysis (EDA) on Flipkart's e-commerce product data to uncover insights and patterns
